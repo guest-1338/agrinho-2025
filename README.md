@@ -1,5 +1,5 @@
 # agrinho-2025
-repositório destinado ao projeto agrínho 2025
+Repositório destinado ao projeto agrínho 2025
 projeto desenvolvido com IA GEMINI, prompt:
 let balloons = []; // Array para armazenar os balões
 let score = 0;
